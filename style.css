@@ -11,4 +11,5 @@ h1{font-size:1.6rem;line-height:1.4;margin:1.4rem 0 .4rem}h2{font-size:1.2rem;ma
 .sub{color:var(--sub);font-size:.88rem}.banner{background:var(--card);color:var(--ink);border:2px solid var(--accent);padding:8px 12px;border-radius:8px;margin:12px 0;font-size:.9rem}
 .pr{font-size:.82rem;color:var(--sub);border:1px dashed var(--line);padding:6px 10px;border-radius:8px;margin:12px 0}
 .tw{overflow-x:auto}table{border-collapse:collapse;width:100%;min-width:520px;font-size:.92rem}td,th{border:1px solid var(--line);padding:6px 8px;text-align:left;vertical-align:top}
+.aff{margin-top:6px;font-weight:600}
 footer{border-top:1px solid var(--line);margin-top:48px;padding:20px 0;color:var(--sub);font-size:.85rem}
