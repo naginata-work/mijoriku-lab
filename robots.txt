@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://naginata-work.github.io/mijoriku-lab/sitemap.xml
